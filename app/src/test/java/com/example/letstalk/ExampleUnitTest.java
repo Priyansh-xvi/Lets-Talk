@@ -1,4 +1,4 @@
-package com.example.guftgo;
+package com.example.letstalk;
 
 import org.junit.Test;
 

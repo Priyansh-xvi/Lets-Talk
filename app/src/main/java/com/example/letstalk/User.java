@@ -1,4 +1,4 @@
-package com.example.guftgo;
+package com.example.letstalk;
 
 public class User {
     private String name, email, pass;

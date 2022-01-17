@@ -1,4 +1,4 @@
-package com.example.guftgo;
+package com.example.letstalk;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
